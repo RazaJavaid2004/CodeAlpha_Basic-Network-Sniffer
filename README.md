@@ -1,4 +1,4 @@
-## ✅ README.md — Basic Network Sniffer
+## 📄 README.md — Basic Network Sniffer
 
 # 🕵️‍♂️ Basic Network Sniffer
 
@@ -83,11 +83,10 @@ This will:
 
 ## 🤝 Credits
 
-Built by [Muhammad Raza](https://github.com/RazaJavaid2004) as part of the [CodeAlpha Cybersecurity Internship](https://codealpha.tech/).
+Built by [Muhammad Raza](https://github.com/RazaJavaid2004) as part of the [CodeAlpha](https://codealpha.tech/) CyberSecurity Internship.
 
 ---
 
 ## 🔐 License
 
 MIT — feel free to fork, modify, and contribute.
-```
